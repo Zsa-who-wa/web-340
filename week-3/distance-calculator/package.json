@@ -1,0 +1,11 @@
+{
+  "name": "distance-calculator",
+  "version": "1.0.0",
+  "Description": "A calculator to find the distance between two planets in our solar system.",
+  "main": "src/distance-calculator.js",
+  "scripts": {
+    "test": "node test/distance-calculator.spec.js"
+  },
+"author": "Wendy Rzechula",
+"license": "ISC"
+}
