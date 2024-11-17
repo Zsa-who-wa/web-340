@@ -1,0 +1,12 @@
+{
+  "name": "taco-stand-app",
+  "version": "1.0.0",
+  "description": "Taco stand event emitter application",
+  "main": "index.js",
+  "scripts": {
+    "test": "node test/taco-stand.spec.js",
+    "start": "node index.js"
+  },
+  "author": "Wendy Rzechula",
+  "license": "ISC"
+}
