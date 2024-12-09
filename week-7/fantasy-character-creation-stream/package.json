@@ -1,0 +1,18 @@
+{
+  "name": "fantasy-character-creation-stream",
+  "version": "1.0.0",
+  "main": "character-creator.spec.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "jest"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "description": "",
+  "devDependencies": {
+    "jest": "^29.7.0"
+  }
+}
