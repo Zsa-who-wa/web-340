@@ -4,6 +4,7 @@
  * File Name: character-creator.spec.js
  * Description: Unit Tests
  */
+
 const CharacterCreator = require('../src/character-creator');
 
 describe('CharacterCreator', () => {

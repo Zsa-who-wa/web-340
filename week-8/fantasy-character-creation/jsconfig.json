@@ -1,0 +1,12 @@
+/**
+* Author: Wendy Rzechula
+* Date: 12/14/2024
+* File Name: jsconfig.json
+* Description: Unit Tests
+*/
+
+{
+  "scripts": {
+    "types": ["jest"]
+  }
+}

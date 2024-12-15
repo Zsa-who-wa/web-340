@@ -1,4 +1,4 @@
-{
+ {
   "name": "fantasy-character-creation-stream",
   "version": "1.0.0",
   "main": "character-creator.spec.js",
@@ -9,7 +9,7 @@
     "test": "jest"
   },
   "keywords": [],
-  "author": "",
+  "author": "Wendy Rzechula",
   "license": "ISC",
   "description": "",
   "devDependencies": {
